@@ -28,7 +28,7 @@ class About extends Component{
                                        
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list" style={{border:'1px solid red',width:'100%'}}>
-                                                <h3 className="title">Who we are</h3>
+                                                <h3 className="title">Who we are ?</h3>
                                                 <p>We are a young company driven to help achieving business success. Our core manifests marketing strategies and services for businesses.</p>
                                             </div>
                                             <div className="about-us-list" style={{border:'1px solid red',width:'100%'}}>
